@@ -1,0 +1,314 @@
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.exe
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.deps.json
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.xml
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\scopedcss\bundle\WebAPI_MVC.styles.css
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.input.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.output.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorCoreGenerate.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CopyComplete
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220104 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.genruntimeconfig.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.json
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.StaticWebAssets.xml
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.exe
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.deps.json
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.json
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.dev.json
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.Data.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ZstdNet.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfoInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\scopedcss\bundle\WebAPI_MVC.styles.css
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.Manifest.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.input.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.output.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorCoreGenerate.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220104 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.exe
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.deps.json
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.xml
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\scopedcss\bundle\WebAPI_MVC.styles.css
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.input.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.output.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorCoreGenerate.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CopyComplete
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220111 frontend WCF\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.exe
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.deps.json
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.xml
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\scopedcss\bundle\WebAPI_MVC.styles.css
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.input.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.output.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorCoreGenerate.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.pdb
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\220111 .NET API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\appsettings.json
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.StaticWebAssets.xml
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.exe
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.deps.json
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.json
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.runtimeconfig.dev.json
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.Data.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\ZstdNet.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfoInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.AssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\scopedcss\bundle\WebAPI_MVC.styles.css
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\staticwebassets\WebAPI_MVC.StaticWebAssets.Manifest.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.input.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.TagHelpers.output.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorCoreGenerate.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.RazorTargetAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.Views.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\ref\WebAPI_MVC.dll
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.pdb
+C:\Data\pers dev\IT\KKSZKI\back end\220111 backend Web API\WebAPI_MVC\WebAPI_MVC\obj\Debug\net5.0\WebAPI_MVC.genruntimeconfig.cache
