@@ -1,0 +1,54 @@
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\appsettings.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.exe
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.pdb
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
+C:\Users\Tanulo\source\repos\220127 fronted routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\appsettings.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.exe
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.deps.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.runtimeconfig.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ref\ContosoPizza.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\ContosoPizza.pdb
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfoInputs.cache
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.AssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\ContosoPizza.styles.css
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ref\ContosoPizza.dll
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.pdb
+C:\Data\pers dev\IT\KKSZKI\React\220127 frontend routing\ContosoPizza\obj\Debug\net6.0\ContosoPizza.genruntimeconfig.cache
