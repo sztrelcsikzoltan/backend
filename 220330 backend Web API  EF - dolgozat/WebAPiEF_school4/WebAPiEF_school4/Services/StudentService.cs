@@ -24,16 +24,16 @@ namespace WebAPiEF_school4.Services
             return student;
         }
 
-        public Grade GetGradesByStudentId(int id)
+        public IEnumerable<Grade> GetGradesByStudentId(int id)
         {
-            Grade grade = context.Grades.First(x => x.StudentId == id);
-            return grade;
+           IEnumerable<Grade> grades = context.Grades.Where(gr => gr.StudentId == id).ToList();
+            return grades;
         }
 
         /*
         public Student GetStudentGradeById(int id)
         {
-            Student student = context.Students.Include(st => st.Grades).First(x => x.Id == id);
+            Student student = context.Students.Include(st => st.Grades).First(x => Student.Id == id);
             return student;
         }
         */

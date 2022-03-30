@@ -30,7 +30,7 @@ namespace WebAPiEF_school4.Controllers
 
         [HttpGet]
         [Route("GetGradesByStudentId")]
-        public Grade GetGradesByStudentId([FromQuery] int id)
+        public IEnumerable<Grade> GetGradesByStudentId([FromQuery] int id)
         {
             return studentService.GetGradesByStudentId(id);
         }
