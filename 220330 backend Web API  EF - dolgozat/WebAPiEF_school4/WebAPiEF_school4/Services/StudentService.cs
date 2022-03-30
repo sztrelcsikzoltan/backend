@@ -26,7 +26,7 @@ namespace WebAPiEF_school4.Services
 
         public Grade GetGradesByStudentId(int id)
         {
-            Grade grade = context.Grades.First(x => x.Id == id);
+            Grade grade = context.Grades.First(x => x.StudentId == id);
             return grade;
         }
 
