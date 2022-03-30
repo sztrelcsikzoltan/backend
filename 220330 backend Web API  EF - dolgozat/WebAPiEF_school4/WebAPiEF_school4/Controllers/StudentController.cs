@@ -29,11 +29,17 @@ namespace WebAPiEF_school4.Controllers
         }
 
         [HttpGet]
+        [Route("GetGradesByStudentId")]
+        public Grade GetGradesByStudentId([FromQuery] int id)
+        {
+            return studentService.GetGradesByStudentId(id);
+        }
+        /*
         [Route("GetStudentGradeById")]
         public Student GetStudentGradeByEmail([FromQuery] int id)
         {
             return studentService.GetStudentGradeById(id);
         }
-
+        */
     }
 }

@@ -24,11 +24,19 @@ namespace WebAPiEF_school4.Services
             return student;
         }
 
+        public Grade GetGradesByStudentId(int id)
+        {
+            Grade grade = context.Grades.First(x => x.Id == id);
+            return grade;
+        }
+
+        /*
         public Student GetStudentGradeById(int id)
         {
             Student student = context.Students.Include(st => st.Grades).First(x => x.Id == id);
             return student;
         }
+        */
 
 
     }
