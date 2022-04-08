@@ -1,0 +1,141 @@
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.exe
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.deps.json
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\scopedcss\bundle\WebApiEF_pizzarendeles.styles.css
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\staticwebassets\WebApiEF_pizzarendeles.StaticWebAssets.Manifest.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.RazorTargetAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CopyComplete
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\refint\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.genruntimeconfig.cache
+C:\Users\Tanulo\source\repos\220330 backend Web API  EF - dolgozat\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\ref\WebApiEF_pizzarendeles.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.Development.json
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.json
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.exe
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.deps.json
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.json
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.dev.json
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Humanizer.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.Data.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\ZstdNet.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfoInputs.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cs
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\scopedcss\bundle\WebApiEF_pizzarendeles.styles.css
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\staticwebassets\WebApiEF_pizzarendeles.StaticWebAssets.Manifest.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.RazorTargetAssemblyInfo.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CopyComplete
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\refint\WebApiEF_pizzarendeles.dll
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.genruntimeconfig.cache
+C:\Data\pers dev\IT\KKSZKI\React\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\ref\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\appsettings.json
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.exe
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.deps.json
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.json
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.runtimeconfig.dev.json
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\ref\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfoInputs.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.AssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\scopedcss\bundle\WebApiEF_pizzarendeles.styles.css
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\staticwebassets\WebApiEF_pizzarendeles.StaticWebAssets.Manifest.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.RazorTargetAssemblyInfo.cache
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.csproj.CopyComplete
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\ref\WebApiEF_pizzarendeles.dll
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.pdb
+C:\Users\Tanulo\source\repos\220404 React\WebApiEF_pizzarendeles\WebApiEF_pizzarendeles\obj\Debug\net5.0\WebApiEF_pizzarendeles.genruntimeconfig.cache
