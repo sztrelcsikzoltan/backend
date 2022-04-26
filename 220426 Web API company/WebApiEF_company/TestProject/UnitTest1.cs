@@ -2,6 +2,7 @@ using System;
 using Xunit;
 using WebApiEF_company.Models;
 using WebApiEF_company.Services;
+using System.Linq;
 
 namespace TestProject
 {
@@ -9,7 +10,6 @@ namespace TestProject
     {
         private readonly companyContext context;
         private readonly CoworkerService service;
-
         public UnitTest1()
         {
             this.context = new companyContext();
@@ -25,10 +25,23 @@ namespace TestProject
         [Fact]
         public void Test_GetCoworkerByEmail()
         {
-            Coworker results = service.GetCoworkerByEmail("coworker1@company.com");
-            Assert.Equal("Coworker 1", results.Name);
-            Assert.Equal(4, results.Notebooks.Count);
-            Assert.Equal(4, results.Phones.Count);
+            Coworker actual = service.GetCoworkerByEmail("coworker1@company.com");
+            Assert.Equal("Coworker 1", actual.Name);
+            Assert.Equal(4, actual.Notebooks.Count);
+            Assert.Equal(4, actual.Phones.Count);
+        }
+
+        [Fact]
+        public void Test_BrandSamsungExits()
+        {
+            Coworker actual = service.GetCoworkerByEmail("coworker1@company.com");
+            Phone phone = actual.Phones.Where(p => p.Brand == "Samsung").FirstOrDefault();
+            string brand = actual.Phones.Where(p => p.Brand == "Samsung").FirstOrDefault().Brand;
+            Assert.NotNull(actual.Phones.Where(p => p.Brand == "Samsung").FirstOrDefault());
+            Assert.NotNull(phone);
+            Assert.NotNull(brand);
+
+            Assert.Equal(4, actual.Phones.Count);
         }
     }
 }
