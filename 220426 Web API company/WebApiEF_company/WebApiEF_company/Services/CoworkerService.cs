@@ -16,7 +16,6 @@ namespace WebApiEF_company.Services
         public Coworker GetCoworkerByEmail(string email)
         {
             return context.Coworkers.Where(c => c.Email == email).Include(c => c.Notebooks).Include(c => c.Phones).FirstOrDefault();
-                
         }
 
         public int GetCoworkerNumber()
