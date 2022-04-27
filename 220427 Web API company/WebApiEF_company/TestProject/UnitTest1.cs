@@ -53,14 +53,14 @@ namespace TestProject
                 Type = "test1"
             };
 
-            // PHone törlése, ha létezik
+            // PHone tÃ¶rlÃ©se, ha lÃ©tezik
             Phone phone0 = context.Phones.Where(p => p.Brand == "Test1").FirstOrDefault();
             if (phone0 != null)
             {
                 service.DeletePhone(phone0.Id);
             }
 
-            service.AddPhone(phone, 1); // külön megadott coworkerId a JsonIgnore miatt
+            service.AddPhone(phone, 1); // kÃ¼lÃ¶n megadott coworkerId a JsonIgnore miatt
             bool phoneExists = context.Phones.Any(p => p.Brand == "Test1");
 
             Assert.True(phoneExists);
@@ -75,7 +75,7 @@ namespace TestProject
                 Brand = "Huwaei",
                 Type = "type1"
             };
-            service.UpdatePhone(phone, 1); // külön megadott coworkerId a JsonIgnore miatt
+            service.UpdatePhone(phone, 1); // kÃ¼lÃ¶n megadott coworkerId a JsonIgnore miatt
             bool phoneExists = context.Phones.Any((p) => p.Type == "type1" && p.CoworkerId == 1);
 
             Assert.True(phoneExists);
@@ -84,8 +84,8 @@ namespace TestProject
         [Fact]
         public void Test_PhoneTransfer()
         {
-            int phoneId = 9;
-            int newCoworkerId = 1;
+            int phoneId = 5;
+            int newCoworkerId = 2;
             service.PhoneTransfer(phoneId, newCoworkerId);
 
             bool phoneExists = context.Phones.Any(p => p.Id == phoneId && p.CoworkerId == newCoworkerId);
